@@ -1,0 +1,44 @@
+{
+  "daily_decluttering_tasks": [
+    {
+      "day": 1,
+      "task": "Clean out one kitchen drawer and get rid of unused utensils."
+    },
+    {
+      "day": 2,
+      "task": "Declutter your bathroom countertop and organize toiletries."
+    },
+    {
+      "day": 3,
+      "task": "Sort through one shelf in your closet and donate unused clothes."
+    },
+    {
+      "day": 4,
+      "task": "Tidy up the junk drawer and toss or relocate random items."
+    },
+    {
+      "day": 5,
+      "task": "Go through your fridge and throw out expired food."
+    },
+    {
+      "day": 6,
+      "task": "Declutter your nightstand and only keep essentials."
+    },
+    {
+      "day": 7,
+      "task": "Organize your desk and clear off unnecessary papers and items."
+    },
+    {
+      "day": 8,
+      "task": "Sort through one bin, box, or storage container."
+    },
+    {
+      "day": 9,
+      "task": "Clean out your purse, backpack, or daily bag."
+    },
+    {
+      "day": 10,
+      "task": "Go through your shoe rack and donate or toss worn-out shoes."
+    }
+  ]
+}
