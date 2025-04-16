@@ -47,8 +47,8 @@ A minimalist app that gives users one small decluttering task each day, such as 
 * User can view their friends list, and see what their friends' streaks are.
 - [ ] Streak
 * User can view their task streak, and see what tasks they have completed in previous days.
-- [ ] Feed 
-* Users can upload posts of them completing their daily tasks, and share with their friends.
+- [ ] Past Tasks 
+* Users can view a list of their completed tasks
 
 ### 3. Navigation
 
@@ -67,7 +67,7 @@ A minimalist app that gives users one small decluttering task each day, such as 
 * Can navigate to any other screen from here, using tabs
 - [ ] Friends
 * Can navigate to any other screen from here, using tabs
-- [ ] Feed
+- [ ] Past Tasks
 * Can navigate to any other screen from here, using tabs
 
 ## Wireframes
